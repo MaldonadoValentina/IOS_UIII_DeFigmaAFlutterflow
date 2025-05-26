@@ -1,17 +1,7 @@
-# IOS_UIII_DeFigmaAFlutterflow
-Flutterflow
+# UIII-Act1-Defigma aFlutterflow-Maldonado
 
-Paguina de Inicio
-- ![image](https://github.com/user-attachments/assets/72f65db6-5aa3-40ae-8efb-2951d207a98c)
+A new Flutter project.
 
-Pagina de Busqueda
-- ![image](https://github.com/user-attachments/assets/2239cbe6-be39-4c27-83f7-b1cda6d9c6e1)
+## Getting Started
 
-Pagina de Descripción de Producto
-(1/2)
-- ![image](https://github.com/user-attachments/assets/4e77162f-d544-4035-a487-186c272e3af6)
-(2/2)
-- ![image](https://github.com/user-attachments/assets/a55c6251-5eea-4679-bbc8-ef267b7f31e4)
-
-
-
+FlutterFlow projects are built to run on the Flutter _stable_ release.
